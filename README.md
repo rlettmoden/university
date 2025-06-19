@@ -12,5 +12,5 @@
   - Conceptualizing and building a LEGO rover to navigate through uneven terrain.
   - Integrating a camera, distance sensors, an e-ink display and servos into a Raspberry Pi to control the rover
 - [Team Project: Data Logging on Trains Using Blockchains](https://www.ibr.cs.tu-bs.de/courses/ss20/sep-ds/index.html)
-  - [3rd Price and animated presentation (found under Platz 3)](https://www.tu-braunschweig.de/en/isf/teaching/2020s/sep)
+  - [3rd place and animated presentation (found under Platz 3)](https://www.tu-braunschweig.de/en/isf/teaching/2020s/sep)
 - [Semantic Segmentation for Landslide detection](https://deep-learning-igp-tubs-sose2023.github.io/Group_C/)
